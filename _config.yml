@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Erik Kampe - More Code. Less Talk."
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Erik Kampe"
+description              : "30 years of online exploring and creating integrative solutions"
+url                      : https://kampester.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : kampester67
 facebook:
   username               :
   app_id                 :
@@ -101,18 +101,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Erik Kampe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "South Jordan, Utah"
+  email            : "erikkampe@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://traderstouch.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -131,13 +131,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: https://twitter.com/kampester67
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: https://github.com/kampester
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

@@ -1,0 +1,233 @@
+<NotepadPlus>
+    <Project name="kampester.github.io">
+        <Folder name="assets">
+            <Folder name="css">
+                <File name="assets\css\main.scss" />
+            </Folder>
+            <Folder name="js">
+                <Folder name="lunr">
+                    <File name="assets\js\lunr\lunr-en.js" />
+                    <File name="assets\js\lunr\lunr-gr.js" />
+                    <File name="assets\js\lunr\lunr-store.js" />
+                    <File name="assets\js\lunr\lunr.js" />
+                    <File name="assets\js\lunr\lunr.min.js" />
+                </Folder>
+                <Folder name="plugins">
+                    <File name="assets\js\plugins\jquery.fitvids.js" />
+                    <File name="assets\js\plugins\jquery.greedy-navigation.js" />
+                    <File name="assets\js\plugins\jquery.magnific-popup.js" />
+                    <File name="assets\js\plugins\jquery.smooth-scroll.min.js" />
+                </Folder>
+                <Folder name="vendor">
+                    <Folder name="jquery">
+                        <File name="assets\js\vendor\jquery\jquery-3.3.1.min.js" />
+                    </Folder>
+                </Folder>
+                <File name="assets\js\main.min.js" />
+                <File name="assets\js\_main.js" />
+            </Folder>
+        </Folder>
+        <Folder name="_data">
+            <File name="_data\navigation.yml" />
+            <File name="_data\ui-text.yml" />
+        </Folder>
+        <Folder name="_includes">
+            <Folder name="analytics-providers">
+                <File name="_includes\analytics-providers\custom.html" />
+                <File name="_includes\analytics-providers\google-gtag.html" />
+                <File name="_includes\analytics-providers\google-universal.html" />
+                <File name="_includes\analytics-providers\google.html" />
+            </Folder>
+            <Folder name="comments-providers">
+                <File name="_includes\comments-providers\custom.html" />
+                <File name="_includes\comments-providers\discourse.html" />
+                <File name="_includes\comments-providers\disqus.html" />
+                <File name="_includes\comments-providers\facebook.html" />
+                <File name="_includes\comments-providers\google-plus.html" />
+                <File name="_includes\comments-providers\scripts.html" />
+                <File name="_includes\comments-providers\staticman.html" />
+                <File name="_includes\comments-providers\staticman_v2.html" />
+            </Folder>
+            <Folder name="footer">
+                <File name="_includes\footer\custom.html" />
+            </Folder>
+            <Folder name="head">
+                <File name="_includes\head\custom.html" />
+            </Folder>
+            <Folder name="search">
+                <File name="_includes\search\algolia-search-scripts.html" />
+                <File name="_includes\search\google-search-scripts.html" />
+                <File name="_includes\search\lunr-search-scripts.html" />
+                <File name="_includes\search\search_form.html" />
+            </Folder>
+            <File name="_includes\analytics.html" />
+            <File name="_includes\archive-single.html" />
+            <File name="_includes\author-profile-custom-links.html" />
+            <File name="_includes\author-profile.html" />
+            <File name="_includes\breadcrumbs.html" />
+            <File name="_includes\browser-upgrade.html" />
+            <File name="_includes\category-list.html" />
+            <File name="_includes\comment.html" />
+            <File name="_includes\comments.html" />
+            <File name="_includes\documents-collection.html" />
+            <File name="_includes\feature_row" />
+            <File name="_includes\figure" />
+            <File name="_includes\footer.html" />
+            <File name="_includes\gallery" />
+            <File name="_includes\group-by-array" />
+            <File name="_includes\head.html" />
+            <File name="_includes\masthead.html" />
+            <File name="_includes\nav_list" />
+            <File name="_includes\page__hero.html" />
+            <File name="_includes\page__hero_video.html" />
+            <File name="_includes\page__taxonomy.html" />
+            <File name="_includes\paginator.html" />
+            <File name="_includes\posts-category.html" />
+            <File name="_includes\posts-tag.html" />
+            <File name="_includes\post_pagination.html" />
+            <File name="_includes\read-time.html" />
+            <File name="_includes\scripts.html" />
+            <File name="_includes\seo.html" />
+            <File name="_includes\sidebar.html" />
+            <File name="_includes\social-share.html" />
+            <File name="_includes\tag-list.html" />
+            <File name="_includes\toc" />
+            <File name="_includes\toc.html" />
+            <File name="_includes\video" />
+        </Folder>
+        <Folder name="_layouts">
+            <File name="_layouts\archive-taxonomy.html" />
+            <File name="_layouts\archive.html" />
+            <File name="_layouts\categories.html" />
+            <File name="_layouts\category.html" />
+            <File name="_layouts\collection.html" />
+            <File name="_layouts\compress.html" />
+            <File name="_layouts\default.html" />
+            <File name="_layouts\home.html" />
+            <File name="_layouts\posts.html" />
+            <File name="_layouts\search.html" />
+            <File name="_layouts\single.html" />
+            <File name="_layouts\splash.html" />
+            <File name="_layouts\tag.html" />
+            <File name="_layouts\tags.html" />
+        </Folder>
+        <Folder name="_sass">
+            <Folder name="minimal-mistakes">
+                <Folder name="skins">
+                    <File name="_sass\minimal-mistakes\skins\_air.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_aqua.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_contrast.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_dark.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_default.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_dirt.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_mint.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_neon.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_plum.scss" />
+                    <File name="_sass\minimal-mistakes\skins\_sunrise.scss" />
+                </Folder>
+                <Folder name="vendor">
+                    <Folder name="breakpoint">
+                        <Folder name="parsers">
+                            <Folder name="double">
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\double\_default-pair.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\double\_default.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\double\_double-string.scss" />
+                            </Folder>
+                            <Folder name="resolution">
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\resolution\_resolution.scss" />
+                            </Folder>
+                            <Folder name="single">
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\single\_default.scss" />
+                            </Folder>
+                            <Folder name="triple">
+                                <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\triple\_default.scss" />
+                            </Folder>
+                            <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\_double.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\_query.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\_resolution.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\_single.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\breakpoint\parsers\_triple.scss" />
+                        </Folder>
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_breakpoint.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_context.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_helpers.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_legacy-settings.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_no-query.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_parsers.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_respond-to.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\breakpoint\_settings.scss" />
+                    </Folder>
+                    <Folder name="magnific-popup">
+                        <File name="_sass\minimal-mistakes\vendor\magnific-popup\_magnific-popup.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\magnific-popup\_settings.scss" />
+                    </Folder>
+                    <Folder name="susy">
+                        <Folder name="plugins">
+                            <Folder name="svg-grid">
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_prefix.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_svg-api.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_svg-grid-math.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_svg-settings.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_svg-unprefix.scss" />
+                                <File name="_sass\minimal-mistakes\vendor\susy\plugins\svg-grid\_svg-utilities.scss" />
+                            </Folder>
+                            <File name="_sass\minimal-mistakes\vendor\susy\plugins\_svg-grid.scss" />
+                        </Folder>
+                        <Folder name="susy">
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_api.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_normalize.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_parse.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_settings.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_su-math.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_su-validate.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_syntax-helpers.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_unprefix.scss" />
+                            <File name="_sass\minimal-mistakes\vendor\susy\susy\_utilities.scss" />
+                        </Folder>
+                        <File name="_sass\minimal-mistakes\vendor\susy\_su.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\susy\_susy-prefix.scss" />
+                        <File name="_sass\minimal-mistakes\vendor\susy\_susy.scss" />
+                    </Folder>
+                </Folder>
+                <File name="_sass\minimal-mistakes\_animations.scss" />
+                <File name="_sass\minimal-mistakes\_archive.scss" />
+                <File name="_sass\minimal-mistakes\_base.scss" />
+                <File name="_sass\minimal-mistakes\_buttons.scss" />
+                <File name="_sass\minimal-mistakes\_footer.scss" />
+                <File name="_sass\minimal-mistakes\_forms.scss" />
+                <File name="_sass\minimal-mistakes\_masthead.scss" />
+                <File name="_sass\minimal-mistakes\_mixins.scss" />
+                <File name="_sass\minimal-mistakes\_navigation.scss" />
+                <File name="_sass\minimal-mistakes\_notices.scss" />
+                <File name="_sass\minimal-mistakes\_page.scss" />
+                <File name="_sass\minimal-mistakes\_print.scss" />
+                <File name="_sass\minimal-mistakes\_reset.scss" />
+                <File name="_sass\minimal-mistakes\_search.scss" />
+                <File name="_sass\minimal-mistakes\_sidebar.scss" />
+                <File name="_sass\minimal-mistakes\_syntax.scss" />
+                <File name="_sass\minimal-mistakes\_tables.scss" />
+                <File name="_sass\minimal-mistakes\_utilities.scss" />
+                <File name="_sass\minimal-mistakes\_variables.scss" />
+            </Folder>
+            <File name="_sass\minimal-mistakes.scss" />
+        </Folder>
+        <File name=".editorconfig" />
+        <File name=".gitattributes" />
+        <File name=".gitignore" />
+        <File name=".travis.yml" />
+        <File name="banner.js" />
+        <File name="CHANGELOG.md" />
+        <File name="Gemfile" />
+        <File name="index.html" />
+        <File name="LICENSE.txt" />
+        <File name="minimal-mistakes-jekyll.gemspec" />
+        <File name="package.json" />
+        <File name="Rakefile" />
+        <File name="README (2).md" />
+        <File name="README.md" />
+        <File name="screenshot-layouts.png" />
+        <File name="screenshot.png" />
+        <File name="staticman.yml" />
+        <File name="_config.yml" />
+    </Project>
+</NotepadPlus>
