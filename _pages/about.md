@@ -5,14 +5,16 @@ header: "/assets/images/landscape_teton_pass.jpg"
 ---
 I'm a senior Education Technologist with a expertise across multiply domains:
 <ul>
-	<li>Chief Learning Officer</li>
-	<li>Web Developer</li>
-	<li>Project Manager/li> 
-	<li>Business Analyst</li>
-	<li>Data Scientist</li>
+	<li> Chief Learning Officer	</li>
+	<li> Web Developer			</li>
+	<li> Project Manager		</li> 
+	<li> Business Analyst		</li>
+	<li> Data Scientist			</li>
 </ul>
 
+<p>
 My unique skill set have been used in wide range of roles including but not limtied to:
+</p>
 
 <ul>
 	<li>eLearning systems</li>
