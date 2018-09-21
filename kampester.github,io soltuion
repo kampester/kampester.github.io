@@ -229,5 +229,7 @@
         <File name="screenshot.png" />
         <File name="staticman.yml" />
         <File name="_config.yml" />
+        <Folder name="_posts" />
+        <Folder name="_pages" />
     </Project>
 </NotepadPlus>
