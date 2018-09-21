@@ -1,7 +1,8 @@
 ---
 title: "About"
 permalink: /about/
-header: "/assets/images/landscape_teton_pass.JPG"
+	header:
+		image: "/assets/images/landscape_teton_pass.JPG"
 ---
 I'm a senior Education Technologist with a expertise across multiply domains:
 <ul>
