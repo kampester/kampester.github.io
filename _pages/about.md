@@ -2,8 +2,6 @@
 layout: archive
 title: "About"
 permalink: /about/
-header:
-	image: "/assets/images/landscape_teton_pass.jpg"
 ---
 
 I'm a senior Education Technologist with a expertise across multiply domains:
