@@ -1,7 +1,8 @@
 ---
-layout: archive
 title: "About"
 permalink: /about/
+header:
+  image: "/assets/images/bkbridge22.jpg"
 ---
 
 I'm a senior Education Technologist with a expertise across multiply domains:
