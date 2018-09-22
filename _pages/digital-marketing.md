@@ -3,7 +3,7 @@ layout: archive
 title: "Digital Marketing"
 permalink: /digital-marketing/
 ---
-My role in instruction design and implementing case-based learning principles in the late 1990's, unintentionally, surfaced powerful linguist insights into language and keywords used by potential students.
+My role in instructional design and implementing "case-based learning" principles in the late 1990's, unintentionally, surfaced powerful linguist insights into language and keywords used by potential students.
 
 Experiential education and action learning systems quickly morphed into powerful marketing funnels that targeted potential students with targeted learning gaps. 
 

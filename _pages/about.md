@@ -6,12 +6,13 @@ permalink: /about/
 
 I'm a senior Education Technologist with a expertise across multiply domains:
 
-	* Chief Learning Officer	
-	* Web Developer			
-	* Project Manager		 
-	* Business Analyst		
-	* Data Scientist			
-
+	<ul>
+		<li> * Chief Learning Officer	</li>
+		<li> * Web Developer			</li>			
+		<li> * Project Manager			</li>	 
+		<li> * Business Analyst			</li>		
+		<li> * Data Scientist			</li>		
+	</ul>
 
 
 My unique skill set have been used in wide range of roles including but not limtied to:
