@@ -6,6 +6,8 @@ main:
     url: /eLearning/
   - title: "Digital Marketing"
     url: https://kampester.github.io/digital-marketing/
+  - title: "Machine Learning"
+    url: /machine-learning/
  # - title: "Business Analyst"
  #   url:/BusinessAnalyst/  
  # - title: "Project Management"
