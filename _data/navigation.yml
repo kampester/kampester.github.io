@@ -4,6 +4,12 @@ main:
     url: /about/
   - title: "eLearning"
     url: /eLearning/
+ # - title: "Digital Marketing"
+ #   url:/DigitalMarketing/
+ # - title: "Business Analyst"
+ #   url:/BusinessAnalyst/  
+ # - title: "Project Management"
+ #   url:/PrjMgnt/ 
   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
