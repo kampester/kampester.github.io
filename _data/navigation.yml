@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "eLearning"
     url: /eLearning/
- # - title: "Digital Marketing"
- #   url:/DigitalMarketing/
+  - title: "Digital Marketing"
+    url: /digital-marketing/
  # - title: "Business Analyst"
  #   url:/BusinessAnalyst/  
  # - title: "Project Management"
