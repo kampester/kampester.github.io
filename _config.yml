@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Erik Kampe"
   avatar           : /assets/images/erik_clean_160x160.jpg  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Turning big data into meaningful action. In other words, building and managing learning systems is what I do best"
-  location         : "South Jordan, Utah"
+  bio              : "Turning BIG data into meaningful ACTION. In other words, building and managing learning systems is what I do best"
+  location         : "South Jordan, Utah / Jackson Hole, WY"
   email            : "erikkampe@gmail.com"
   links:
     - label: "Email"
@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/kampester67"
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kampester/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
