@@ -1,5 +1,4 @@
 ---
-
 layout: archive
 title: "eLearning"
 permalink: /eLearning/

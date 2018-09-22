@@ -1,9 +1,11 @@
 ---
+layout: archive
 title: "About"
 permalink: /about/
 header:
 	image: "/assets/images/landscape_teton_pass.jpg"
 ---
+
 I'm a senior Education Technologist with a expertise across multiply domains:
 
 	* Chief Learning Officer	
@@ -16,8 +18,6 @@ I'm a senior Education Technologist with a expertise across multiply domains:
 
 My unique skill set have been used in wide range of roles including but not limtied to:
 
-
-
 	*eLearning systems
 	*eCommerce - Digital Marketing 
 	*FinTech - Blockchain
@@ -26,8 +26,6 @@ My unique skill set have been used in wide range of roles including but not limt
 		*Web 2.0 
 		*Web 3.0 
 		
-
-
 I am seeking a challenging work environment and/or project to continue my
 commitment to continuous learning and professional development.
 
