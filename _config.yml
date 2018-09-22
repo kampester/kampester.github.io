@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erik Kampe - Integrating People, Technology and Learning Environments"
+title                    : "Portfolio: Code. Research. Data Analysis"
 title_separator          : "-"
 name                     : "Erik Kampe"
 description              : "Coder >> Analyst>> Data Scientist>> Designer>>  Generative Learning Advocate."
 url                      : https://kampester.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : #kampester/career # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : kampester/kampester.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : #true # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-link"
      # url: "https://traderstouch.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/kampester67"
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin-square"
